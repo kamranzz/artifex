@@ -1,0 +1,15 @@
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=DotGothic16&family=Inter&family=Island+Moments&family=Itim&family=Montserrat&family=Mr+Dafoe&family=Neonderthaw&family=Righteous&family=Roboto&family=Rochester&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a{
+  text-decoration: none;
+}
+
+ul{
+  list-style: none;
+}
